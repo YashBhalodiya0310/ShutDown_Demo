@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShutDown Demo</string>
+    <string name="switch_off">switch off</string>
+</resources>
